@@ -15,7 +15,7 @@
              :location "Minas Gerais, Brasil"
              :interests #{"AI" "Development" "Free Software" "Operations"}}
         dev {:langs ["Bash" "Clojure" "Go" "Java" "Python" "Rust" "SQL" "TypeScript"]
-             :tools ["Babashka" "Emacs" "IDEA" "PyCharm"]}
+             :tools ["Babashka" "Emacs" "IDEA" "PyCharm" "VSCodium"]}
         ops {:os #{"NixOS"}
              :iac ["Ansible" "Terraform" "Vagrant"]
              :ci-cd ["Docker" "GitLab CI" "Jenkins" "Kubernetes"]
