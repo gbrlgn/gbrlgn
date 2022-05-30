@@ -14,13 +14,13 @@
   (let [inf {:name "Gabriel Gian"
              :location "Minas Gerais, Brasil"
              :interests #{"AI" "Development" "Free Software" "Operations"}}
-        dev {:langs ["Bash" "Clojure" "Go" "Java" "Python" "Rust" "SQL"]
-             :tools ["Babashka" "Emacs" "IDEA" "Kafka" "PyCharm"]}
-        ops {:os #{"Fedora"}
+        dev {:langs ["Bash" "Clojure" "Go" "Java" "Python" "Rust" "SQL" "TypeScript"]
+             :tools ["Babashka" "Emacs" "IDEA" "PyCharm"]}
+        ops {:os #{"NixOS"}
              :iac ["Ansible" "Terraform" "Vagrant"]
              :ci-cd ["Docker" "GitLab CI" "Jenkins" "Kubernetes"]
              :cloud #{"AWS" "GCP" "OCI"}
-             :db #{"PostgreSQL" "Redis"}}]
+             :db #{"DynamoDB" "PostgreSQL" "Redis"}}]
     (->> user
          (build-user inf)
          (test-user dev)
