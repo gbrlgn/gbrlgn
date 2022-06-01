@@ -16,7 +16,7 @@
              :interests #{"AI" "Development" "Free Software" "Operations"}}
         dev {:langs ["Bash" "Clojure" "Go" "Java" "Python" "Rust" "SQL" "TypeScript"]
              :tools ["Babashka" "Emacs" "IDEA" "PyCharm" "VSCodium"]}
-        ops {:os #{"NixOS"}
+        ops {:os #{"Fedora" "NixOS" "Ubuntu"}
              :iac ["Ansible" "Terraform" "Vagrant"]
              :ci-cd ["Docker" "GitLab CI" "Jenkins" "Kubernetes"]
              :cloud #{"AWS" "GCP" "OCI"}
