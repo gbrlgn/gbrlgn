@@ -21,7 +21,7 @@
              :cont ["containerd" "Docker" "Kubernetes"]
              :ci-cd ["Argo CD" "Jenkins" "Rancher"]
              :cloud #{"AWS" "GCP" "OCI"}
-             :db #{"DynamoDB" "MongoDB" "PostgreSQL" "Redis"}}]
+             :db ["DynamoDB" "MongoDB" "PostgreSQL" "Redis"]}]
     (->> user
          (build-user inf)
          (test-user dev)
