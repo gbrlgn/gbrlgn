@@ -18,7 +18,8 @@
              :tools ["Babashka" "Emacs" "IDEA" "PyCharm" "VSCodium"]}
         ops {:os #{"Fedora" "NixOS" "Ubuntu"}
              :iac ["Ansible" "Terraform" "Vagrant"]
-             :ci-cd ["Argo CD" "Docker" "Jenkins" "Kubernetes" "Rancher"]
+             :cont ["containerd" "Docker" "Kubernetes"]
+             :ci-cd ["Argo CD" "Jenkins" "Rancher"]
              :cloud #{"AWS" "GCP" "OCI"}
              :db #{"DynamoDB" "MongoDB" "PostgreSQL" "Redis"}}]
     (->> user
