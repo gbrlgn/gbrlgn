@@ -1,0 +1,25 @@
+# Grande Sertão: Veredas by Poty Lazzarotto.
+[[http://classiques.uqac.ca/classiques/weil_simone/pesanteur_et_grace/pesanteur_et_grace.pdf#page=39][./nonada.png]]
+
+#+BEGIN_SRC lua
+  bio =
+    { info =
+        { name = "Gabriel Lemos"
+        , location = "Minas Gerais, Brasil"
+        , interests = {"Free Software", "Cloud"}
+        }
+    , dev =
+        { langs = {"Haskell", "Lua", "Rust", "Scheme"}
+        , tools = {"Emacs", "Nix"}
+        }
+    , ops =
+        { os = {"NixOS"}
+        , iac = {"Ansible", "Pulumi", "Terraform"}
+        , oci = {"containerd", "Docker", "Kubernetes"}
+        , ci/cd = {"Argo CD", "Bitbucket", "GitLab", "Jenkins"}
+        , cloud = {"Amazon", "Oracle"}
+        } 
+    }
+#+END_SRC
+
+[[https://cloudflare-ipfs.com/ipfs/bafykbzacec2u4l3gyz5m3bhygzt7xpwbsf22hefbhtcartxoeeocnk64uw7na?filename=Friedrich%20A.%20Kittler%20-%20Die%20Wahrheit%20der%20technischen%20Welt-Suhrkamp%20Verlag.pdf#page=103][./travessia.png]]
