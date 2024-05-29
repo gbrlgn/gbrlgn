@@ -1,0 +1,18 @@
+# Grande Sertão: Veredas by Poty Lazzarotto.
+[[http://classiques.uqac.ca/classiques/weil_simone/pesanteur_et_grace/pesanteur_et_grace.pdf#page=39][./nonada.png]]
+
+# Poema Sujo by Ferreira Gullar.
+#+BEGIN_SRC lua
+claro    =    0    --[[  ]]    mais    =    {    que    =    1    }
+if mais  .que >     claro      then         return    "raro"    end
+while relampago          .clareia         ( continentes .PASSADOS )
+do casa                .junto="noite "..      "e "       .."jasmim"
+if vozes:perdidas(na .LAMA)  then  return   "domingos vazios"   end
+agua               .sonhando           (      na       .TINA      )
+patria .DE  =  {MATO=1,  FERRUGEM=2,  BUSCA={COBRE=1,  ALUMINIO=2}}
+function   pelos (x)   patria ["terrenos"]   .baldios   =   x   end
+if   economia.DE.GUERRA   then mim:para ("torresmo " .. "e cinema")
+end                                                             end
+#+END_SRC
+
+[[https://cloudflare-ipfs.com/ipfs/bafykbzacec2u4l3gyz5m3bhygzt7xpwbsf22hefbhtcartxoeeocnk64uw7na?filename=Friedrich%20A.%20Kittler%20-%20Die%20Wahrheit%20der%20technischen%20Welt-Suhrkamp%20Verlag.pdf#page=103][./travessia.png]]
